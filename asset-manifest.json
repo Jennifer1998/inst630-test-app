@@ -1,16 +1,20 @@
 {
   "files": {
-    "main.css": "/inst630-test-app/static/css/main.073c9b0a.css",
-    "main.js": "/inst630-test-app/static/js/main.683ec611.js",
-    "static/js/787.a86f3764.chunk.js": "/inst630-test-app/static/js/787.a86f3764.chunk.js",
-    "static/media/logo.svg": "/inst630-test-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/inst630-test-app/static/css/main.ba01c722.css",
+    "main.js": "/inst630-test-app/static/js/main.db754aa1.js",
+    "static/media/front_new.jpg": "/inst630-test-app/static/media/front_new.9c07193de0149c198a22.jpg",
+    "static/media/Lato-Regular.ttf": "/inst630-test-app/static/media/Lato-Regular.80c07943565d91b976e1.ttf",
+    "static/media/Lato-Bold.ttf": "/inst630-test-app/static/media/Lato-Bold.bb154e8dcbf157f82e9b.ttf",
+    "static/media/uhc_logo.png": "/inst630-test-app/static/media/uhc_logo.7a88b6b7177709c8230d.png",
+    "static/media/covidServices.svg": "/inst630-test-app/static/media/covidServices.a74cb3900d3c513baeba55c0da5a2c28.svg",
+    "static/media/healthAndWellness.svg": "/inst630-test-app/static/media/healthAndWellness.3d23470c6b556116a5fe23c812051917.svg",
+    "static/media/primaryCare.svg": "/inst630-test-app/static/media/primaryCare.10e60b1b648c161aaaf073bc56c2424a.svg",
     "index.html": "/inst630-test-app/index.html",
-    "main.073c9b0a.css.map": "/inst630-test-app/static/css/main.073c9b0a.css.map",
-    "main.683ec611.js.map": "/inst630-test-app/static/js/main.683ec611.js.map",
-    "787.a86f3764.chunk.js.map": "/inst630-test-app/static/js/787.a86f3764.chunk.js.map"
+    "main.ba01c722.css.map": "/inst630-test-app/static/css/main.ba01c722.css.map",
+    "main.db754aa1.js.map": "/inst630-test-app/static/js/main.db754aa1.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.683ec611.js"
+    "static/css/main.ba01c722.css",
+    "static/js/main.db754aa1.js"
   ]
 }
